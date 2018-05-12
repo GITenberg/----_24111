@@ -1,0 +1,26 @@
+_repo: '----_24111'
+_version: 0.1.0
+alternative_title: Zhu Shu Ji Nian
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Unknown
+    gutenberg_agent_id: '49'
+    url: http://www.gutenberg.org/2009/agents/49
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a216
+description: ''
+gutenberg_issued: '2008-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24111'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'China -- History -- To 221 B.C. -- Chronology'
+- !lcc 'PL'
+title: 竹書紀年
+url: http://www.gutenberg.org/ebooks/24111
